@@ -1,3 +1,3 @@
 # uonmaths
-Hello lovely folks from Maths! 
+Hello lovely folks from Maths!
 Matthew Hubbard mehubbard
